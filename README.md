@@ -8,7 +8,7 @@
 ---
 
 - 🌱 I’m currently learning **Machine Learning, GitHub Actions, & Open Source**
-- 👯 I’m looking to collaborate on **AI/ML Projects, Web Dev Tools, or OSS**
+- 👯 I would love to collaborate on **AI/ML Projects, Web Dev Tools, or OSS**
 - 💬 Ask me about **Python, Java, ML, Git, APIs, and clean code**
 - 📫 Reach me at: **devanshgajjar04@gmail.com** , **djbusiness7785@gmail.com**
 - ⚡ Fun fact: I love building and breaking things equally.
