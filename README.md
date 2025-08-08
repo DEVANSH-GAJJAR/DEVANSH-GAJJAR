@@ -42,7 +42,7 @@
 
 ### 📊 Tech Usage Overview
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=pie&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DEVANSH-GAJJAR&layout=pie&theme=radical)
 
 
 
