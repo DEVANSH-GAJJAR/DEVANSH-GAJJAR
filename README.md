@@ -34,6 +34,7 @@
 ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)  
 ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)  
 
+
 **Frameworks & Libraries:**  
 ![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)  
 ![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=wordpress)  
