@@ -41,17 +41,7 @@
 
 
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-000?style=for-the-badge&logo=react)  
-![WordPress](https://img.shields.io/badge/WordPress-000?style=for-the-badge&logo=wordpress)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-000?style=for-the-badge&logo=bootstrap)  
 
-**Tools & Platforms:**  
-![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)  
-![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github)  
-![Composer](https://img.shields.io/badge/Composer-000?style=for-the-badge&logo=composer)  
-![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx)  
-![Apache](https://img.shields.io/badge/Apache-000?style=for-the-badge&logo=apache)  
 
 ## 📈 GitHub Stats
 
