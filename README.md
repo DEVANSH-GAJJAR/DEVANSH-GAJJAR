@@ -40,6 +40,9 @@
 ![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git) ![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github) ![Composer](https://img.shields.io/badge/Composer-000?style=for-the-badge&logo=composer) ![Nginx](https://img.shields.io/badge/Nginx-000?style=for-the-badge&logo=nginx) ![Apache](https://img.shields.io/badge/Apache-000?style=for-the-badge&logo=apache)
 
 
+### 📊 Tech Usage Overview
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=pie&theme=radical)
 
 
 
