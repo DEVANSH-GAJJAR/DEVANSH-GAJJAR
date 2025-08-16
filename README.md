@@ -31,7 +31,10 @@
 
 ## 📝 Editors I Use  
 
-<p align="left"> <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> </a> <a href="https://cursor.sh/"> <img src="https://img.shields.io/badge/Cursor-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </a> <a href="https://www.jetbrains.com/idea/"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /> </a> <a href="https://gitforwindows.org/"> <img src="https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=git&logoColor=white" /> </a> <a href="https://developer.android.com/studio"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> </a> </p>
+<p align="left"> <a href="https://code.visualstudio.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code" /> </a>&nbsp;&nbsp; <a href="https://cursor.sh/"> <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" height="40" alt="Cursor" /> </a>&nbsp;&nbsp; <a href="https://www.jetbrains.com/idea/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="IntelliJ IDEA" /> </a>&nbsp;&nbsp; <a href="https://gitforwindows.org/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git Bash" /> </a>&nbsp;&nbsp; <a href="https://developer.android.com/studio"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="Android Studio" /> </a> <a href="https://visualstudio.microsoft.com/vs/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="Visual Studio 2022" />
+</a>
+</p>
 
 ---
 ### 🛠️ Tech Stack
