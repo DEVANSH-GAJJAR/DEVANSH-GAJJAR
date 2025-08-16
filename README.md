@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Devansh Gajjar</h1>
-<h3 align="center">🚀 Developer | 💡 Tech Enthusiast | 📊 ML & Data Science Learner</h3>
+<h3 align="center">🚀 Developer | 💡 Tech Enthusiast | 📊 ML & Data Science Learner | </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=DEVANSH-GAJJAR&label=Profile%20views&color=0e75b6&style=flat" alt="DEVANSH-GAJJAR" />
@@ -29,6 +29,11 @@
 </div>
 ---
 
+## 📝 Editors I Use  
+
+<p align="left"> <a href="https://code.visualstudio.com/"> <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> </a> <a href="https://cursor.sh/"> <img src="https://img.shields.io/badge/Cursor-5C2D91?style=for-the-badge&logo=visualstudiocode&logoColor=white" /> </a> <a href="https://www.jetbrains.com/idea/"> <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" /> </a> <a href="https://gitforwindows.org/"> <img src="https://img.shields.io/badge/Git%20Bash-4EAA25?style=for-the-badge&logo=git&logoColor=white" /> </a> <a href="https://developer.android.com/studio"> <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" /> </a> </p>
+
+---
 ### 🛠️ Tech Stack
 
 <p align="left">
