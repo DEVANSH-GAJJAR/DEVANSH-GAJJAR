@@ -44,7 +44,8 @@
 
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript) ![PHP](https://img.shields.io/badge/PHP-000?style=for-the-badge&logo=php) ![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3) ![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)  ![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python&logoColor=white)
+
 
 
 **Frameworks & Libraries:**  
