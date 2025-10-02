@@ -15,11 +15,6 @@
 
 ---
 
-![Oracle](https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg)
-
-
----
-
 ### 🔗 Connect with me
 <div style="display: flex; align-items: center; gap: 10px;">
   <a href="https://www.linkedin.com/in/devansh-gajjar-150660315/" target="blank">
