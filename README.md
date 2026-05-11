@@ -28,7 +28,7 @@
     <img src="https://img.shields.io/badge/Stack%20Overflow-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow"/>
   </a>
 </div>
----
+--------
 
 ## 📝 Editors I Use  
 
