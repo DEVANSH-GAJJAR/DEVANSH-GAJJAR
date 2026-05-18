@@ -11,7 +11,7 @@
 - 🏆 1x Oracle Cloud Infrastructure - Foundations Associate 
 - 👯 I would love to collaborate on **AI/ML Projects, Web Dev Tools, or OSS**
 - 💬 Ask me about **Python, Java, ML, Git, APIs, and clean code**
-- 📫 Reach me at: **devanshgajjar04@gmail.com** , **djbusiness7785@gmail.com**
+- 📫 Reach me at: **zackyjacky3123@gmail.com** , **djbusiness7785@gmail.com**
 - ⚡ Fun fact: I love building and breaking things equally.
 
 ---
