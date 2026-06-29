@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Devansh Gajjar</h1>
+<h1 align="center">Hi 👋, I'm Devansh </h1>
 <h3 align="center">🚀 Developer |💡 Tech Enthusiast | 📊 ML & Data Science Learner | 🔥Open-Source Contributor |  🏆 1x Oracle Cloud Certified Practictioner | XCAN Advocate  </h3>
 
 <p align="center">
